@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.remigiusz.mastermindgame.MasterMindGameController">
+   <children>
+      <GridPane fx:id="gameGrid" layoutX="25.0" layoutY="72.0">
+      </GridPane>
+      <GridPane fx:id="scoreGrid" layoutX="150.0" layoutY="72.0" prefHeight="0.0" prefWidth="0.0">
+      </GridPane>
+      <GridPane fx:id="defaultColors" layoutX="270.0" layoutY="72.0" prefHeight="0.0" prefWidth="0.0">
+      </GridPane>
+      <Button fx:id="checkResult" layoutX="360.0" layoutY="122.0" mnemonicParsing="false" onAction="#checkResultOnClick" text="Check!" />
+      <Label fx:id="movesCounter" layoutX="372.0" layoutY="171.0" />
+      <Button fx:id="restartGame" layoutX="292.0" layoutY="122.0" mnemonicParsing="false" onAction="#onRestartButtonClick" text="Give Up!" />
+      <Label fx:id="code" layoutX="372.0" layoutY="250.0" />
+      <Label layoutX="372.0" layoutY="226.0" text="Last Code:" />
+   </children>
+</AnchorPane>
