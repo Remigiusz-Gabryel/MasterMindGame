@@ -61,9 +61,9 @@
 
 ## Screenshots
 
-<img src="screenshots/initital-stage.png" width="500"><br>
-<img src="screenshots/game-stage.png" width="500"><br>
-<img src="screenshots/winning-stage.png" width="500"><br>
+<img src="screenshots/initial-stage.png" width="400"><br>
+<img src="screenshots/game-stage.png" width="400"><br>
+<img src="screenshots/winning-stage.png" width="400"><br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
