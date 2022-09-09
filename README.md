@@ -61,7 +61,7 @@
 
 ## Screenshots
 
-<img src="screenshots/intital-stage.png" width="500"><br>
+<img src="screenshots/initital-stage.png" width="500"><br>
 <img src="screenshots/game-stage.png" width="500"><br>
 <img src="screenshots/winning-stage.png" width="500"><br>
 
