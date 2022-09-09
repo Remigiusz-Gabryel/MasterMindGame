@@ -73,8 +73,7 @@
 - [ ] Add Changelog
 - [ ] Add Difficulty level 
 - [ ] Add background colors
-- [ ] Change end game view
-- [ ] 
+
 
 
 See the [open issues](https://github.com/Remigiusz-Gabryel/MasterMindGame/issues) for a full list of proposed features (and known issues).
